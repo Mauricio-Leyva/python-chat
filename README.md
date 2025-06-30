@@ -53,8 +53,8 @@ ALLOWED_ORIGINS=https://tu-dominio.com
 
 1. **Clonar o descargar** el proyecto
 ```bash
-git clone https://github.com/tu-usuario/chat-system.git
-cd chat-system
+git clone https://github.com/Mauricio-Leyva/python-chat.git
+cd python-chat
 ```
 
 2. **Crear entorno virtual** (recomendado)
@@ -208,4 +208,4 @@ Cuatrimestre 6 - Diseño de Interfaces
 
 ### 🎯 Estado del Proyecto: ✅ Completado y Funcional
 
-**Desarrollado con ❤️ para el aprendizaje de desarrollo web moderno**
+**Desarrollado con ❤️ para el aprendizaje de desarrollo web**
